@@ -104,7 +104,7 @@ input {
 }
 
 .navbar-module {
-    margin: -15%;
+    margin: 0%;
 }
 
 .navbar-module ul .headerli a, .navbar-module ul .headerli a svg {
@@ -132,10 +132,6 @@ input {
     border-radius: 6px;
     font-weight: 700;
     font-size: 22.5px;
-}
-
-.navbar-socials {
-    margin: 0;
 }
 
 /*        */
